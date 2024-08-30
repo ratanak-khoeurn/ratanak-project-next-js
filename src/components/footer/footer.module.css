@@ -7,12 +7,13 @@
 }
 
 .social {
+  width: 100px;
   display: flex;
   align-items: center;
   gap: 10px;
 }
 
 .icon {
-  opacity: 0.6;
+  opacity: 1.6;
   cursor: pointer;
 }
